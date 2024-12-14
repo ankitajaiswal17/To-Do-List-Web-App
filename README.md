@@ -5,7 +5,7 @@ This is a simple yet effective To-Do List Application built with HTML, CSS, and 
 ## Tech Stack
 
 - HTML
-- CSS
+- CSS To-Do List Web App/style.css
 - JavaScript
 
 # To-do-App
