@@ -8,9 +8,14 @@ This is a simple yet effective To-Do List Application built with HTML, CSS, and 
 - CSS
 - JavaScript
 
-## Installation
+# To-do-App
+To-do app can create to-do with add, update, delete and completed todo list.
 
-Open the index.html file in your web browser to start using the application.
+# To-do
+It contains 3 pages:
+1. Home page (all todos are listed with add, update, delete, completion buttons).
+2. Completed Todos
+3. Create Todos
 
 ## Usage
  1. Add tasks with a simple click.
