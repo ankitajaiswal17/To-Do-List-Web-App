@@ -27,7 +27,7 @@ It contains 3 pages:
 ## Website Demo
  ## Screenshots 📸
 
-![Screenshot 1](screenshots/Screenshot_2.png)
+![Screenshot 1](Screenshots/Screenshot 2024-12-15 001400.png)
 *Screenshot of the To-Do List app showing tasks for the "My Day" section.*
 
 ![Screenshot 2](screenshots/Screenshot_1.png)
